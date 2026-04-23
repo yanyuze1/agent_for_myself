@@ -10,7 +10,7 @@
 
 ## Overview
 
-`agent_for_myself` is a simple Agent repository whose main purpose is to use heavy AI assistance to design, build, validate, and iterate on Agent workflows.
+`agent_for_myself` is a simple Agent repository whose core purpose is to use heavy AI assistance, and even let AI directly participate in parts of the process, to complete Agent design, implementation, validation, and iteration. This is also an exploration of AI's powerful capabilities. To make sure developers and learners can use the project smoothly, the installation and usage sections will be manually reviewed and reproduced before the usage documentation is finalized.
 
 Instead of trying to become a large platform from the start, this repository focuses on:
 
@@ -120,4 +120,4 @@ This repository works well as a personal Agent starter project because it is:
 
 `agent_for_myself` can be understood as a simple, clear, and extendable Agent experiment repository.
 
-It already shows how a minimal Agent works end to end, and it is a solid personal starting point for using AI assistance to design and execute Agent work.
+It already shows how a minimal Agent works end to end, and it is a solid personal starting point for using AI assistance to design and execute Agent work. In the future, this repository will serve as the foundational Agent repository for Unitree Go2 series projects, and it will continue to iterate and expand toward building a smarter robotic dog!
